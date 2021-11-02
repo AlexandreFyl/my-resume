@@ -1,0 +1,12 @@
+.app-container {
+  height: 100vh;
+  .left-side {
+    width: 3vw;
+    // max-width: 12px;
+  }
+  .right-side {
+    // max-width: 88vh;
+    width: 97vw;
+    background-color: red;
+  }
+}
